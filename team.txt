@@ -1,3 +1,5 @@
 try to make a team
 
 yes yes add
+
+with ssh
